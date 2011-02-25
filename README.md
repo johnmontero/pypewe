@@ -12,8 +12,11 @@ In order to run PyPeWe locally for development purposes just do the following:
 a) Grab a copy of the Google AppEngine SDK for Python and install it.
 
 wget -c http://googleappengine.googlecode.com/files/google_appengine_1.4.2.zip
+
 unzip google_appengine_1.4.2.zip
+
 mkdir /opt/google
+
 mv google_appengine /opt/google/appengine
 
 b) Run the project
